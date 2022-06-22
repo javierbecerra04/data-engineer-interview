@@ -35,7 +35,7 @@
 - Allows write recursive queries because can reference itself.
 
 9. What is a transaction?
-Is a sequence of SQL statements that are commited or roll back as a unit.
+<br>Is a sequence of SQL statements that are commited or roll back as a unit.
 
 10. What does ACID mean in databases?
 - Atomicity: guarantees that each transaction is treated as a single unit, which either succeeds completely, or fails completely.
