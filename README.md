@@ -56,7 +56,7 @@
 - A class method works with the class since its parameter is always the class itself.
 
 3. What is the difference between *args and **kwargs?
-We use *args and **kwargs as an argument in a function when we are unsure about the number of arguments to pass in the functions. It allows function to take variable length argument.
+<br>We use *args and **kwargs as an argument in a function when we are unsure about the number of arguments to pass in the functions. It allows function to take variable length argument.
 - *args: passes variable number of non-keyworded arguments and on which operation of the tuple can be performed.
 - **kwargs: passes variable number of keyword arguments dictionary to function on which operation of a dictionary can be performed.
 
